@@ -5,8 +5,12 @@
 		<lastmod>2026-06-28T14:05:21+00:00</lastmod>
 	</sitemap>
 	<sitemap>
+		<loc>/blog/page-sitemap.xml</loc>
+		<lastmod>2026-06-28T18:20:28+00:00</lastmod>
+	</sitemap>
+	<sitemap>
 		<loc>/blog/bricks_template-sitemap.xml</loc>
-		<lastmod>2026-06-28T17:58:48+00:00</lastmod>
+		<lastmod>2026-06-28T18:23:24+00:00</lastmod>
 	</sitemap>
 	<sitemap>
 		<loc>/blog/category-sitemap.xml</loc>
